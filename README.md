@@ -4,7 +4,7 @@ MovieVerse is a simple and stylish movie discovery webpage made as part of a Web
 
 ## 🌐 Live Demo
 [Click Here to Visit](https://rutukale2810.github.io/movieverse-webd/)  
-*Replace `your-username` with your actual GitHub username.*
+
 
 ## 📁 Files Included
 - `index.html`: Main webpage file.
@@ -20,7 +20,7 @@ MovieVerse is a simple and stylish movie discovery webpage made as part of a Web
 
 ## 📸 Preview
 ![Preview](screenshot.png)  
-*Add a screenshot file named `screenshot.png` if you want to show preview.*
+
 
 ## 💻 Technologies Used
 - HTML5
